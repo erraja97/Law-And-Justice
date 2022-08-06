@@ -13,7 +13,7 @@ This project is a part of Full stack Javascript Bootcamp. In this project i have
 - Basic of HTML and CSS
 - Selectors to target Elements
 - Postioning Elements
-- Bckground Color and Image
+- Background Color and Image
 - Button with no fill only border
 
 # This Project took me around 2.5 hours to complete.
